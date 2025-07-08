@@ -31,5 +31,3 @@ An NLP-powered phishing email detection system using Large Language Models (LLMs
 
 ---
 
-## 📁 Project Structure
-
